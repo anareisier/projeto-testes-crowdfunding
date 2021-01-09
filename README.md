@@ -1,0 +1,3 @@
+# Implementando uma stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
+
+Este repositório tem o objetivo de colocar em prática os conhecimentos obtidos no Bootcamp da Avanade em parceria com a Digital Innovation One, aplicando testes a um projeto de crowdfunding (vaquinha online) desenvolvida em .Net Core com a arquitetura MVC. Foi visto na teoria e na prática os principais conceitos de testes para aumentar a qualidade de entrega de projetos com testes de unidade, integrados e TDD.

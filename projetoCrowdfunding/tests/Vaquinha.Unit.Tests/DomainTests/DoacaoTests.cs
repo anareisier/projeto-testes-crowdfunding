@@ -33,8 +33,12 @@ namespace Vaquinha.Unit.Tests.DomainTests
             var valido = doacao.Valido();
 
             // Assert
-            valido.Should().BeTrue(because: "os campos foram preenchidos corretamente");
-            doacao.ErrorMessages.Should().BeEmpty();
+
+                //Assert.true(Valido);
+                valido.Should().BeTrue(because: "os campos foram preenchidos corretamente");
+            
+                //valido.Should() .Be
+                doacao.ErrorMessages.Should().BeEmpty();
         }
 
         [Fact]

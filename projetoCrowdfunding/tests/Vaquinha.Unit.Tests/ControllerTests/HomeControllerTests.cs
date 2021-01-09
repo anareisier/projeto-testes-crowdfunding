@@ -13,6 +13,8 @@ namespace Vaquinha.Unit.Tests.ControllerTests
         public HomeControllerTests()
         {
 
+            //nova funcionalidade
+
         }
     }
 }

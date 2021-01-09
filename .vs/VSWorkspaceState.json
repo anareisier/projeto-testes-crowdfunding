@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\projetoCrowdfunding",
+    "\\projetoCrowdfunding\\src",
+    "\\projetoCrowdfunding\\tests",
+    "\\projetoCrowdfunding\\tests\\Vaquinha.Tests.Common",
+    "\\projetoCrowdfunding\\tests\\Vaquinha.Tests.Common\\Fixtures",
+    "\\projetoCrowdfunding\\tests\\Vaquinha.Unit.Tests",
+    "\\projetoCrowdfunding\\tests\\Vaquinha.Unit.Tests\\DomainTests"
+  ],
+  "SelectedNode": "\\projetoCrowdfunding\\tests\\Vaquinha.Unit.Tests\\DomainTests\\DoacaoTests.cs",
+  "PreviewInSolutionExplorer": false
+}
